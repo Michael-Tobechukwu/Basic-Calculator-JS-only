@@ -24,4 +24,4 @@ else {
 }  
   
 // display the result of the calculation  
-window.alert(" Result is " + result); 
+window.alert(" Result is " + result. "Thanks for using my  "); 
